@@ -6,7 +6,7 @@
 
 - **Login**: As a user i can login into my account with email or username also i can login with google+.
 
-- **Logout**: As i user i can logout my account.
+- **Logout**: As a user i can logout my account.
 
 - **Show projects**: As a user there well be a page show all kind of projects of all users.
 
