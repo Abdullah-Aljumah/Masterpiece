@@ -12,7 +12,7 @@
 
 - **New project**: As a user i can upload my new projects and determine a deadline for the project, although the project must be approved by the admin.
 
-- **Donate** :As a user i can donate to other projects before the deadline, or other can donate to my projects before the deadline.
+- **Donate** : As a user i can donate to other projects before the deadline, or other can donate to my projects before the deadline.
 
 - **Packages**: In each project there well be a section call packages, contain exslusive offers depends on how much i donate.
 
