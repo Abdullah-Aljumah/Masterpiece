@@ -4,7 +4,7 @@
 
 - **Register**: As a new user i can create my new account.
 
-- **Login**: As a user i can login into my account with email or username also i can login with google+, and as an admin i can blocked any user.
+- **Login**: As a user i can login into my account with email or username also i can login with google+, and as an admin i can block any user.
 
 - **Logout**: As a user i can logout my account.
 
